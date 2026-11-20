@@ -1,3 +1,6 @@
-## game
+# de game
 
-#idk meowww
+#voortgang
+- [x] unity aangemaakt
+- [x] repository gemerged
+- [ ] speler
